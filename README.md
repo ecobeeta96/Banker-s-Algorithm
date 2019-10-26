@@ -1,4 +1,4 @@
-Initial state of the system including the following properties must be taken as user inputs.
+Initial state of the system including the following properties are taken as as user inputs.
 • Number of processors n.
 • Number of resource types m.
 • Available: A vector of length m indicates the number of available resources of each type.
